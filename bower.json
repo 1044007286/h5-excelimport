@@ -9,10 +9,6 @@
   "license": "MIT",
   "homepage": "https://github.com/1044007286/h5-excelimport",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "package.json"
   ]
 }
