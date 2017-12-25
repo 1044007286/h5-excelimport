@@ -1,0 +1,18 @@
+{
+  "name": "excel",
+  "authors": [
+    "hsl <1044007286@qq.com>"
+  ],
+  "version": "0.0.0",
+  "description": "public/lib",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
