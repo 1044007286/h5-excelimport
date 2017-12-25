@@ -6,7 +6,6 @@
   "version": "0.0.0",
   "description": "excel导入",
   "main": "",
-  "directory": "public/lib",
   "license": "MIT",
   "homepage": "https://github.com/1044007286/h5-excelimport",
   "ignore": [
