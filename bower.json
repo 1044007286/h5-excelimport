@@ -4,10 +4,11 @@
     "hsl <1044007286@qq.com>"
   ],
   "version": "0.0.0",
-  "description": "public/lib",
+  "description": "excel导入",
   "main": "",
+  "directory": "public/lib",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/1044007286/h5-excelimport",
   "ignore": [
     "**/.*",
     "node_modules",
